@@ -65,12 +65,13 @@ This table contains all of the topping_name values with their corresponding topp
 
 ## Case Study Questions
 
-The case study has been divided into four areas of focus, including:
+The case study has been divided into the following areas of focus:
 
 - Pizza Metrics
 - Runner and Customer Experience
 - Ingredient Optimisation
 - Pricing and Ratings
+- Bonus Questions
 
 #### A. Pizza Metrics
 
