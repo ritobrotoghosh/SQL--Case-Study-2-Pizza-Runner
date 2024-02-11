@@ -1,18 +1,18 @@
 # SQL--Case-Study-2-Pizza-Runner
 
 <p align="center">
-    <img src="https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Danny's%20Diner.png" height="400">
+    <img src="https://github.com/ritobrotoghosh/SQL--Case-Study-2-Pizza-Runner/blob/main/Pizza%20Runner.png" height="400">
 </p>
 
 ## Introduction
 
-Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
+Danny was scrolling through his Instagram feed when something caught his eye: “80s Retro Styling and Pizza Is The Future!”
 
-Danny was sold on the idea, but he knew that pizza alone was not going to help him get seed funding to expand his new Pizza Empire - so he had one more genius idea to combine with it - he was going to Uberize it - and so Pizza Runner was launched!
+He was sold on the idea, but he knew that pizza alone was not going to help him get seed funding to expand his new Pizza Empire, so he had one more genius idea to combine with it: he was going to Uberize it, and so Pizza Runner was launched!
 
-Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
+Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders.
 
-He knew that collecting data was really important for his business to grow. However, he needed further assistance to clean his data and apply some basic calculations. This way, he could give better directions to his runners and make Pizza Runner run even smoother.
+He knew that collecting data was important for his business to grow. However, he needed further assistance to clean his data and apply some basic calculations. This way, he could give better directions to his runners and make Pizza Runner run even smoother.
 
 ## Dataset
 
@@ -60,7 +60,7 @@ This table contains all of the topping_name values with their corresponding topp
 ## Entity Relationship Diagram
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Entity%20Relationship%20Diagram.png' height="400">
+    <img src='https://github.com/ritobrotoghosh/SQL--Case-Study-2-Pizza-Runner/blob/main/ERD.png' height="400">
 </p>
 
 ## Case Study Questions
